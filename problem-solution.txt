@@ -1,0 +1,40 @@
+Problem: Managing City Data Overload
+
+Solution: 
+
+1. We will create a platfrom where user will put his, From and to place name and then give analyise button.
+2. After click analyise button: it will give realted max as possible routes of that destiny with the incident details.
+   (1) if on regular path has issue or it has more traffic then it show, how many total vichesl are in line and how much line long, and how much time take to reach destiny.
+   (2) we will assign as much pssoible routes of that destiny. if aviable and also privde the all details, time takne, any incident, how line far, and how much vichle in that.
+   (3) split traffic: we will split traffic to other routes, That help us to manage traffic and overlaod on that routes.
+   (4) we will give some threshold on one paht if it has capicity to handle 100 vichles one time then we can assign 90 to 95 only. So according it we will assign.
+
+3. User will aslo can submit any issue on our app and also if issue masor that also forward that issue to direclty nearset goverment department, that suit in that case.
+4. gather new features from social handle that need a users on google map. and we will implemnt here.
+
+
+How to excute this:
+
+Gather data:
+1. scrap data from google search page, twitter, reddit, like: news, latest issue on that path or realted routes.
+2. google map data for all details much possible avialabe, Like: from to distance, total time taken to reach on that routes, total: routes avialabe, any issue on that path.
+
+So now we got the data now we have to use it and show analysis on our app.
+
+
+UI: 
+1. Create a 2 input box that take place name from and to.
+2. Button to analysis the best possible patha and give possibel apth with time taken and if any incident present.
+3. Show that all routes in mind map type also show tools tips by defaulte show with color code of that incident.
+4. on every path start before show, how much time it will take, total vichle in it, how far traffic is, any issue and how much.
+
+Features: 
+1. User can direclty submit to our ai about near issue in chat box right side and our ai will automatic send to govement department as per issue. we will take use live location and send that isseu with it. that depart ment can see where the issue.
+
+Dashboard: 
+1. total travel time like: day, yesterday, 1week, 1month, 1year, all time
+2. total travel km
+3. total oil used,
+4. total money spend on fuel
+5. total incident on regular routes: after click list of isseu and stutus of it: Underconstruction, Not started, Done
+6. History of travel jurney in left side like gemini chat History
