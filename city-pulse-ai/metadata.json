@@ -1,0 +1,7 @@
+{
+  "name": "City Pulse AI",
+  "description": "An intelligent city dashboard providing real-time traffic analysis, route optimization, and a citizen reporting assistant. Uses AI to analyze routes, predict traffic, and help citizens report issues to the correct departments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "name": "Bengaluru Pulse",
-  "description": "An agentic application that provides a live, synthesized, and intelligent view of Bengaluru by analyzing real-time traffic, incidents, and citizen reports to offer predictive insights and optimized routes.",
-  "requestFramePermissions": [
-    "camera"
-  ],
-  "prompt": ""
-}
